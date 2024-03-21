@@ -17,7 +17,7 @@ docker build -t holamundo .
 ```
 ## 4. Genere el contenedor de la api usando la imagen
 ```
-docker run -d -p 8080:8080 --name api holamundo
+docker run -d -p 8080:8080 --name holamundo-container holamundo
 ```
 ## 5. Realizar peticion
 ```
