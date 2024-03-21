@@ -19,3 +19,7 @@ docker build -t holamundo .
 ```
 docker run -d -p 8080:8080 --name api holamundo
 ```
+## 5. Realizar peticion
+```
+https://localhost:8080/saludo
+```
