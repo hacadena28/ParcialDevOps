@@ -1,0 +1,6 @@
+@Parcial_DevOps_HolaMundo_HostAddress = http://localhost:5106
+
+GET {{Parcial_DevOps_HolaMundo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

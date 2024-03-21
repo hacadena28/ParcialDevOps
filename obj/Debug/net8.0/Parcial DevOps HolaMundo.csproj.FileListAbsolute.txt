@@ -1,0 +1,32 @@
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\appsettings.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Parcial DevOps HolaMundo.exe
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Parcial DevOps HolaMundo.deps.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Parcial DevOps HolaMundo.runtimeconfig.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Parcial DevOps HolaMundo.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Parcial DevOps HolaMundo.pdb
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.csproj.AssemblyReference.cache
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.AssemblyInfoInputs.cache
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.AssemblyInfo.cs
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets\msbuild.Parcial DevOps HolaMundo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets\msbuild.build.Parcial DevOps HolaMundo.props
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Parcial DevOps HolaMundo.props
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Parcial DevOps HolaMundo.props
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\scopedcss\bundle\Parcial DevOps HolaMundo.styles.css
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial .62F071C3.Up2Date
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\refint\Parcial DevOps HolaMundo.dll
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.pdb
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\Parcial DevOps HolaMundo.genruntimeconfig.cache
+C:\Users\caden\Desktop\Parcial DevOps HolaMundo\obj\Debug\net8.0\ref\Parcial DevOps HolaMundo.dll
