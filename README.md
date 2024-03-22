@@ -21,5 +21,5 @@ docker run -d -p 8080:8080 --name holamundo-container holamundo
 ```
 ## 5. Realizar peticion
 ```
-https://localhost:8080/saludo
+localhost:8080/saludo
 ```
